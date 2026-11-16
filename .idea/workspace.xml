@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c3929697-7411-441b-86c9-fb4e6a2004c8" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/public/assets/styles/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/styles/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "dyrs1712"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/dyrs1712/ihc-landing_page.git",
+    "accountId": "96503499-f2d1-4fc1-b4d6-532da13501ca"
+  }
+}]]></component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.7235997087037574E-8" />
+      <entry key="MS500" value="0.028385634434614206" />
+      <entry key="S2" value="0.5484635628093755" />
+      <entry key="S5" value="1.154046087661585" />
+      <entry key="S10" value="1.5105754259239226" />
+      <entry key="S30" value="1.8476388152693595" />
+      <entry key="S60" value="2.930407837382677" />
+      <entry key="M2" value="10.519487714008607" />
+      <entry key="M5" value="41.53884783351825" />
+      <entry key="M10" value="87.2359427172973" />
+      <entry key="M15" value="135.03147746671974" />
+      <entry key="M30" value="260.45795617857647" />
+      <entry key="H1" value="401.63281481470756" />
+      <entry key="H2" value="512.5866080962451" />
+      <entry key="H4" value="582.991848208067" />
+      <entry key="D1" value="651.1890613347366" />
+      <entry key="W1" value="663.8587942092082" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0" />
+      <entry key="S5" value="1.0000000000000024" />
+      <entry key="S10" value="1.0000000487871696" />
+      <entry key="S30" value="1.0048389162693743" />
+      <entry key="S60" value="1.1367677371820744" />
+      <entry key="M2" value="2.0401023006046124" />
+      <entry key="M5" value="5.9466390052654585" />
+      <entry key="M10" value="12.354538361455516" />
+      <entry key="M15" value="19.18925171804972" />
+      <entry key="M30" value="36.80096262885358" />
+      <entry key="H1" value="56.232082924193016" />
+      <entry key="H2" value="71.32247473304423" />
+      <entry key="H4" value="80.83588529656922" />
+      <entry key="D1" value="90.01185664815402" />
+      <entry key="W1" value="91.71267482332874" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="5.577584675841776E-5" />
+      <entry key="MS500" value="0.14542209349636978" />
+      <entry key="S2" value="0.9764281861323056" />
+      <entry key="S5" value="1.8122076891111056" />
+      <entry key="S10" value="2.308745387887072" />
+      <entry key="S30" value="2.775610109610824" />
+      <entry key="S60" value="4.013951763614925" />
+      <entry key="M2" value="12.48300111587352" />
+      <entry key="M5" value="47.377797822070974" />
+      <entry key="M10" value="99.49585415753637" />
+      <entry key="M15" value="154.13918475051054" />
+      <entry key="M30" value="297.1999315447043" />
+      <entry key="H1" value="457.82648255621524" />
+      <entry key="H2" value="583.886518729909" />
+      <entry key="H4" value="663.8154019903768" />
+      <entry key="D1" value="741.1986944081012" />
+      <entry key="W1" value="755.5711469238826" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3MASLkLtGlRbroyLRNazLBjrgMn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "git-widget-placeholder": "feature/styles",
+    "javascript.preferred.runtime.type.id": "node",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/dyrs1/OneDrive/Desktop/ihc-landing_page/src/main.js",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-56aff7b04f6f-JavaScript-WS-263.7307.202" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c3929697-7411-441b-86c9-fb4e6a2004c8" name="Changes" comment="" />
+      <created>1794791827533</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1794791827533</updated>
+      <workItem from="1794791827788" duration="7125000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
