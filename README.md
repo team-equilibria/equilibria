@@ -1,0 +1,2 @@
+# EquilibrIA
+EquilibrIA es una aplicacion de bienestar que usa inteligencia artifical para ayudar a los estudiantes a equilibrar la carga academica y su vida personal. Esta landing page presenta la propuesta de valor, los beneficios y testimonios de usuarios.  
